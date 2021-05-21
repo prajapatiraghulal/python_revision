@@ -1,3 +1,4 @@
+'''lambda is anonymous function and cant use for in it '''
 # x=lambda a,b:a+b
 # print(x(3,2))
 # print(x)
