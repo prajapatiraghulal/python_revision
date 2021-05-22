@@ -1,6 +1,6 @@
 class Laptop:
-    disc=10
-    def __init__(self,name,price):
+    disc=10     #class variable
+    def __init__(self,name,price):          #constructor
         #instance variables
         self.name = name
         self.price = price
